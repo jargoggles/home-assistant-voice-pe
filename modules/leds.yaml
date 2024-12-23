@@ -626,7 +626,3 @@ script:
             light.is_on: led_ring
           then:
             light.turn_on: led_ring
-
-
-
-

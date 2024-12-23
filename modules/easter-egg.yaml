@@ -46,4 +46,4 @@ binary_sensor:
 event:
   - id: !extend button_press_event
     event_types:
-        - easter_egg_press
+      - easter_egg_press
