@@ -8,4 +8,4 @@ packages:
   voice-assistant: !include modules/voice-assistant.yaml
   timer: !include modules/timer.yaml
   factory-reset: !include modules/factory-reset.yaml
-  easter-egg: !include modules/easter-egg.yaml
+  quantum-stabilizer: !include modules/quantum-stabilizer.yaml
