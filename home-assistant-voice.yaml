@@ -1524,7 +1524,7 @@ audio_dac:
 micro_wake_word:
   id: mww
   models:
-    - model: github://jargoggles/microwakeword/hey_pascal.json
+    - model: github://jargoggles/microwakeword/hey_pascal.json@main
       id: hey_pascal
     - model: https://github.com/kahrendt/microWakeWord/releases/download/okay_nabu_20241226.3/okay_nabu.json
       id: okay_nabu
